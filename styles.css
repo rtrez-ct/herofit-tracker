@@ -1,0 +1,6 @@
+body { -webkit-tap-highlight-color: transparent; }
+.stat-box { background: #f8f9fa; border-radius: .5rem; padding: .5rem; }
+.stat-label { font-size: .8rem; color: #666; }
+.stat-value { font-size: 1.2rem; font-weight: 700; }
+.list-group-item small { color:#666; }
+#quick-foods .btn, #quick-workouts .btn { text-align:left; }
